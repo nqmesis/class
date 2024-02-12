@@ -1,0 +1,55 @@
+body {
+  background-image: url(star.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+}
+*{
+	margin: 0px;
+}
+.heading{
+	background: blue;
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+	margin-right: 40px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+}
+.heading:hover{
+	background: red;
+	color: blue;
+	border: 5px dotted white;
+
+}
+.text{
+	background: blue; 
+	font-family: cursive;
+	margine: 30px 20px 10px 50px;
+}
+.list{
+	background: white; 
+	text-align: center; 
+	font-family: fantasy; 
+	font-size: 20px;
+}
+.division{
+	margin: 50px;
+}
+#para{
+	border: 6px dashed darkcyan;
+	color: white;
+	overflow: auto;
+}
+#image{
+	float: right;
+	padding: 5px;
+}
+p{
+	text-align: justify;
+}
+.sp2{
+	color: yellow;
+	
+}
